@@ -7,7 +7,7 @@ This repository supports the thesis titled "Manual Cubing Assisted by Augmented 
 - `CUBICAJE_CODIGO.txt`: Source code.
 - `Instancia.txt`: Input file containing the problem instance.
 
-## 🎥 
+## 🎥 Application Videos
 
 Since GitHub has a 25 MB file size limit, demonstration videos are available in the following Google Drive folder:
 
