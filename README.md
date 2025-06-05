@@ -1,7 +1,6 @@
 # Proyecto de Cubicaje
 
-Este repositorio contiene los archivos del proyecto del algoritmo sofisticado de cubicaje 3D con una interfaz de RA implementada en
-el dispositivo HoloLens 2 (HL2).
+Este repositorio contiene los archivos de una aplicación de realidad aumentada que integra un algoritmo híbrido de GRASP y Beam Search, con una interfaz desarrollada para el dispositivo HoloLens 2 (HL2).
 
 ## 📂 Archivos
 
@@ -10,9 +9,8 @@ el dispositivo HoloLens 2 (HL2).
 
 ## 🎥 Videos del proyecto
 
-Dado que GitHub tiene un límite de 25 MB por archivo, los videos fueron subidos a Google Drive:
+Dado que GitHub tiene un límite de 25 MB por archivo, los videos de demostración están disponibles en la siguiente carpeta de Google Drive:
 
-- [Video 1 - Vista desde las gafas HL2 del proceso de cubicaje]()
-- [Video 2 - Vista externa del proceso de cubicaje]()
+🔗 [Ver videos del proyecto](https://drive.google.com/drive/folders/1TmVr5qGDJhwoJDzItWPJ7W9XwM4chEGd?usp=sharing)
 
-*Puedes visualizar los resultados y funcionamiento del algoritmo en los enlaces anteriores.*
+*Puede visualizar el funcionamiento de la aplicación en el anterior enlace.*
