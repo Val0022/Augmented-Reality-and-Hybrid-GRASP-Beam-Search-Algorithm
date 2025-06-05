@@ -13,4 +13,4 @@ Dado que GitHub tiene un límite de 25 MB por archivo, los videos de demostraci�
 
 🔗 [Ver videos del proyecto](https://drive.google.com/drive/folders/1TmVr5qGDJhwoJDzItWPJ7W9XwM4chEGd?usp=sharing)
 
-*Puede visualizar el funcionamiento de la aplicación en el anterior enlace.*
+*Puede visualizar el funcionamiento de la aplicación en el enlace.*
