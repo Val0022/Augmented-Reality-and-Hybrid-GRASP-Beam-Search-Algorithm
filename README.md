@@ -11,6 +11,6 @@ This repository supports the thesis titled "Manual Cubing Assisted by Augmented 
 
 Since GitHub has a 25 MB file size limit, demonstration videos are available in the following Google Drive folder:
 
-🔗 [Ver videos del proyecto](https://drive.google.com/drive/folders/1TmVr5qGDJhwoJDzItWPJ7W9XwM4chEGd?usp=sharing)
+🔗 [Watch the repository videos](https://drive.google.com/drive/folders/1TmVr5qGDJhwoJDzItWPJ7W9XwM4chEGd?usp=sharing)
 
 *You can watch the application in action at the link above.*
