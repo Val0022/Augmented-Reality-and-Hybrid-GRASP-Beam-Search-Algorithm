@@ -2,12 +2,12 @@
 
 This repository supports the thesis titled "Manual Cubing Assisted by Augmented Reality." It contains the files for an augmented reality application that integrates a hybrid GRASP and Beam Search algorithm, featuring an interface developed for the HoloLens 2 (HL2) device.
 
-## 📂 Archivos
+## 📂 Files
 
 - `CUBICAJE_CODIGO.txt`: Source code.
 - `Instancia.txt`: Input file containing the problem instance.
 
-## 🎥 Videos del proyecto
+## 🎥 
 
 Since GitHub has a 25 MB file size limit, demonstration videos are available in the following Google Drive folder:
 
