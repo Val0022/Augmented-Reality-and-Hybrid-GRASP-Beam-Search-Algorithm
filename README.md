@@ -12,7 +12,7 @@ el dispositivo HoloLens 2 (HL2).
 
 Dado que GitHub tiene un límite de 25 MB por archivo, los videos fueron subidos a Google Drive:
 
-- [Video 1 - Demostración](https://drive.google.com/file/d/XXXXXXXX/view?usp=sharing)
-- [Video 2 - Resultado final](https://drive.google.com/file/d/YYYYYYYY/view?usp=sharing)
+- [Video 1 - Vista desde las gafas HL2 del proceso de cubicaje]()
+- [Video 2 - Vista externa del proceso de cubicaje]()
 
 *Puedes visualizar los resultados y funcionamiento del algoritmo en los enlaces anteriores.*
