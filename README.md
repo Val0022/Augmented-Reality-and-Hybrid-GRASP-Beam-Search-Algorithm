@@ -4,8 +4,8 @@ This repository supports the thesis titled "Cubicaje manual asistido por realida
 
 ## 📂 Files
 
-- `CUBICAJE_CODIGO.txt`: Source code.
-- `Instancia.txt`: Input file containing the problem instance.
+- `CODE.txt`: Source code.
+- `INSTANCE.txt`: Input file containing the problem instance.
 
 ## 🎥 Application Videos
 
