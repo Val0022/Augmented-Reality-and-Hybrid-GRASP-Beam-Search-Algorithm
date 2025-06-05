@@ -1,6 +1,6 @@
 # Manual Cubing Assisted by Augmented Reality
 
-This repository supports the thesis titled "Manual Cubing Assisted by Augmented Reality." It contains the files for an augmented reality application that integrates a hybrid GRASP and Beam Search algorithm, featuring an interface developed for the HoloLens 2 (HL2) device.
+This repository supports the thesis titled "Cubicaje manual asistido por realidad aumentada". It contains the files for an augmented reality application that integrates a hybrid GRASP and Beam Search algorithm, featuring an interface developed for the HoloLens 2 (HL2) device.
 
 ## 📂 Files
 
