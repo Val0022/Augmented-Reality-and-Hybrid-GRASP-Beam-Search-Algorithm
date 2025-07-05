@@ -14,3 +14,8 @@ Since GitHub has a 25 MB file size limit, demonstration videos are available in 
 🔗 [Watch the repository videos](https://drive.google.com/drive/folders/1TmVr5qGDJhwoJDzItWPJ7W9XwM4chEGd?usp=sharing)
 
 *You can watch the application in action at the link above.*
+
+## 🛠️ Project
+
+`PRUEBA`: This folder contains the Unity project and all related assets used to build the augmented reality application for the HoloLens 2.
+
